@@ -1,2 +1,3 @@
 # M01S02-Exercicios
-Exercicios do modulo 1 semana 2
+<p align="center">Exercicios do modulo 1 semana 2</p>
+
